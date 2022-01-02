@@ -1,63 +1,69 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Chenkai Yu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student in Decision, Risk, and Operations
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+  - name: Columbia University
+    url: https://www.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am interested in the intersection of computer science and economics.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+  - Game Theory and Mechanism Design
+  - Online Algorithms
+  - Theoretical Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    - course: PhD in Decision, Risk, and Operations
+      institution: Columbia University
+      year: 2026
+    - course: BEng in Computer Science
+      institution: Tsinghua University
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  - icon: envelope
+    icon_pack: fas
+    link: "/#contact"
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: "#contact" # For a direct email link, use "mailto:test@example.org".
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=WLixsssAAAAJ
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/Yu_Chenkai
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -70,8 +76,10 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in the [Decision, Risk, and Operations (DRO)](https://academics.gsb.columbia.edu/phd/academics/dro) division at Columbia Business School. I am generally interested in problems at the intersection of computer science and economics. I hope to use theoretical and modeling techniques to solve emerging problems with real-world impacts in interdisciplinary research areas.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I received a bachelor's degree in computer science from [Institute for Interdisciplinary Information Sciences (Yao Class)](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University. During my undergraduate study, I spent six months at California Institute of Technology, where I worked with [Adam Wierman](https://adamwierman.com/) and [Hongyao Ma](https://www.hongyaoma.com/) on online algorithms and ride-sharing markets; I also spent a summer at University of Michigan, where I worked with [Grant Schoenebeck](http://schoeneb.people.si.umich.edu/) on information elicitation mechanisms.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My name in [International Phonetic Alphabet (IPA)](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet): \[tʂʰən kʰaɪ y\]. "Yu" [sounds](https://en.wikipedia.org/wiki/Close_front_rounded_vowel) like the French word "tu" without "t".
+
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
