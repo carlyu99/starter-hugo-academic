@@ -16,7 +16,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-06-08"
+date: "2022-03-25"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,7 +29,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication:
+publication: 2022 American Control Conference (ACC)
 publication_short: ACC 2022
 
 abstract: This paper studies the impact of imperfect information in online control with adversarial disturbances. In particular, we consider both delayed state feedback and inexact predictions of future disturbances. We introduce a greedy, myopic policy that yields a constant competitive ratio against the offline optimal policy with delayed feedback and inexact predictions. We also analyze the fundamental limits of online control with limited information by showing that our competitive ratio bounds for the greedy, myopic policy in the adversarial setting match (up to lower-order terms) lower bounds in the stochastic setting.
