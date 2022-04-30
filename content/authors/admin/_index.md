@@ -37,12 +37,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=WLixsssAAAAJ
   - icon: envelope
     icon_pack: fas
     link: "/#contact"
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/Yu_Chenkai
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -55,12 +58,6 @@ social:
   # - icon: envelope
   #   icon_pack: fas
   #   link: "#contact" # For a direct email link, use "mailto:test@example.org".
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=WLixsssAAAAJ
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/Yu_Chenkai
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
