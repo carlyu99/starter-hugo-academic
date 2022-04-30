@@ -43,9 +43,9 @@ tags: [Control Theory, Online Algorithm]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: blog post
+  url: https://www.gshi.me/blog/CompetitiveMPC/
 
 url_pdf: 'https://arxiv.org/abs/2006.07569'
 url_code: ''
@@ -54,7 +54,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://videos.neurips.cc/search/power%20of%20predictions%20in%20online%20control/video/slideslive-38936069'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
