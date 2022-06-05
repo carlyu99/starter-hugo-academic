@@ -31,7 +31,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of the ACM on Measurement and Analysis of Computing Systems
+publication: Proceedings of the ACM on Measurement and Analysis of Computing Systems (SIGMETRICS 2022)
 publication_short: SIGMETRICS 2022
 
 abstract: We study the problem of learning-augmented predictive linear quadratic control. Our goal is to design a controller that balances consistency, which measures the competitive ratio when predictions are accurate, and robustness, which bounds the competitive ratio when predictions are inaccurate. We propose a novel $\lambda$-confident controller and prove that it maintains a competitive ratio upper bound of $1 + \min\{O(\lambda^2 \epsilon) + O(1 - \lambda)^2, O(1) + O(\lambda^2)\}$ where $\lambda \in [0, 1]$ is a trust parameter set based on the confidence in the predictions, and $\epsilon$ is the prediction error. Further, we design a self-tuning policy that adaptively learns the trust parameter $\lambda$ with a regret that depends on $\epsilon$ and the variation of perturbations and predictions.
