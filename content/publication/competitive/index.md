@@ -16,7 +16,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-03-25"
+date: "2022-06-08"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -50,7 +50,7 @@ featured: false
 url_pdf: 'https://arxiv.org/abs/2010.11637'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
