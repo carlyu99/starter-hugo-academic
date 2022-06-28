@@ -14,7 +14,7 @@ organizations:
     url: https://www.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: At the intersection of computer science and economics
+bio: Incentive, Information, and Computation
 
 # Interests to show in About widget
 interests:
