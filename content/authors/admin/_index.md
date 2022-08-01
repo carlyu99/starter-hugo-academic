@@ -73,7 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student in the [Decision, Risk, and Operations (DRO)](https://academics.gsb.columbia.edu/phd/academics/dro) division at Columbia Business School. I am generally interested in problems at the intersection of computer science and economics. I hope to use theoretical and modeling techniques to solve emerging problems with real-world impacts in interdisciplinary research areas.
+I am a PhD student in the [Decision, Risk, and Operations (DRO)](https://academics.gsb.columbia.edu/phd/academics/dro) division at Columbia Business School. I am generally interested in problems at the intersection of computer science and economics. I hope to use theoretical and modeling techniques to solve interdisciplinary problems with real-world impacts.
 
 I graduated with a bachelor's degree in computer science from [Institute for Interdisciplinary Information Sciences (Yao Class)](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University. During my undergraduate study, I spent six months at [Caltech](https://www.caltech.edu/), where I worked with [Adam Wierman](https://adamwierman.com/) and [Hongyao Ma](https://www.hongyaoma.com/) on online algorithms and ride-sharing markets; I also spent a summer at [University of Michigan](https://umich.edu/), where I worked with [Grant Schoenebeck](http://schoeneb.people.si.umich.edu/) on mechanism design.
 
