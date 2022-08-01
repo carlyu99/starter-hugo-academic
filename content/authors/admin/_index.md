@@ -77,6 +77,6 @@ I am a PhD student in the [Decision, Risk, and Operations (DRO)](https://academi
 
 I graduated with a bachelor's degree in computer science from [Institute for Interdisciplinary Information Sciences (Yao Class)](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University. During my undergraduate study, I spent six months at [Caltech](https://www.caltech.edu/), where I worked with [Adam Wierman](https://adamwierman.com/) and [Hongyao Ma](https://www.hongyaoma.com/) on online algorithms and ride-sharing markets; I also spent a summer at [University of Michigan](https://umich.edu/), where I worked with [Grant Schoenebeck](http://schoeneb.people.si.umich.edu/) on mechanism design.
 
-My name in [International Phonetic Alphabet (IPA)](https://www.internationalphoneticassociation.org/IPAcharts/inter_chart_2018/IPA_2018.html): \[tʂʰən˧˥ kʰaɪ˨˩˦ y˧˥\]. "Yu" sounds like the French word "tu" without "t".
+My name in [International Phonetic Alphabet (IPA)](https://www.internationalphoneticassociation.org/IPAcharts/inter_chart_2018/IPA_2018.html): \[tʂʰən˧˥ kʰaɪ˨˩˧ y˧˥\]. "Yu" sounds like the French word "tu" without "t".
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
