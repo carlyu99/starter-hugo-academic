@@ -19,7 +19,7 @@ bio: Incentive, Information, and Computation
 # Interests to show in About widget
 interests:
   - Game Theory and Mechanism Design
-  - Online Algorithms
+  - Online Optimization
   - Theoretical Machine Learning
 
 # Education to show in About widget
